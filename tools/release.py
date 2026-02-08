@@ -238,6 +238,11 @@ def main():
     print(f"Running HEMTT Release Build with {args.threads} threads...")
     subprocess.run(["hemtt", "release", "-t", str(args.threads)], check=True)
 
+    # Normalize timestamps in .hemttout after build
+    if os.path.exists(os.path.join(PROJECT_ROOT, "tools", "fix_timestamps.py")):
+        print("Normalizing build timestamps...")
+        subprocess.run([sys.executable, os.path.join(PROJECT_ROOT, "tools", "fix_timestamps.py"), HEMTT_OUT], check=False)
+
     possible_zips = glob.glob(os.path.join(RELEASE_DIR, "*.zip")) + glob.glob(os.path.join(PROJECT_ROOT, "releases", "*.zip"))
     if not possible_zips:
         print("Error: No release zip found.")
@@ -247,7 +252,16 @@ def main():
     if os.path.exists(STAGING_DIR):
         shutil.rmtree(STAGING_DIR)
     os.makedirs(STAGING_DIR)
+    print(f"Extracting release to staging...")
     subprocess.run(["unzip", "-q", latest_zip, "-d", STAGING_DIR], check=True)
+    
+    # Update timestamps to prevent weird "1881" dates on Steam
+    print("Normalizing file timestamps...")
+    for root, dirs, files in os.walk(STAGING_DIR):
+        for d in dirs:
+            os.utime(os.path.join(root, d), None)
+        for f in files:
+            os.utime(os.path.join(root, f), None)
     
     ws_config = get_workshop_config()
     workshop_id = ws_config["id"]

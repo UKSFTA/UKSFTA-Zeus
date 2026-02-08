@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.pytest_cache/
-.uksf_tools/
-.hemttout/
-*.pbo
-*.bisign
-.env
