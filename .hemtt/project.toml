@@ -1,4 +1,4 @@
-name = "UKSF Task Force Alpha - UKSFTA-Zeus"
+name = "UKSF Task Force Alpha - Zeus"
 author = "UKSF Taskforce Alpha Team"
 prefix = "UKSFTA-Zeus"
 mainprefix = "z"
@@ -16,6 +16,9 @@ include = [
     "LICENSE",
     "README.md"
 ]
+
+[archive]
+directory = "releases"
 
 workshop_id = "INSERT_ID_HERE"
 workshop_tags = ["Mod", "Addon"]
