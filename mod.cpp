@@ -1,11 +1,9 @@
-﻿name = "UKSF Task Force Alpha - Maps Modpack";
-action = "https://uksfta.github.io/";
-actionName = "Website";
+name = "UKSF Taskforce Alpha - Zeus Modpack";
 author = "UKSF Taskforce Alpha Team";
 logo = "z\uksfta\addons\main\data\icon_128_ca.paa";
 logoOver = "z\uksfta\addons\main\data\icon_128_highlight_ca.paa";
 logoSmall = "z\uksfta\addons\main\data\icon_64_ca.paa";
-overview = "UKSF Taskforce Alpha";
+overview = "UKSF Taskforce Alpha - Zeus Modpack. Specialized tools and assets for unit mission makers.";
 picture = "z\uksfta\addons\main\data\title_co.paa";
-tooltip = "UKSFTA";
+tooltip = "UKSFTA Zeus";
 tooltipOwned = "UKSF Taskforce Alpha";

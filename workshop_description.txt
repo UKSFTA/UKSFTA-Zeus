@@ -1,7 +1,7 @@
-[h1]UKSF Task Force Alpha - [PROJECT NAME][/h1]
+[h1]UKSF Task Force Alpha - Zeus Modpack[/h1]
 
-[b]Modular component for the UKSFTA Ecosystem.[/b]
-This project provides specialized assets/functions for UKSFTA operations. Optimized for production use and maintained via the UKSFTA automation pipeline.
+[b]Advanced toolkit for UKSFTA Zeus operators and mission designers.[/b]
+This collection provides essential mission-making assets, Zeus modules, and functional improvements required for creating high-fidelity tactical simulations within the UKSFTA environment.
 
 [h2]🗺 Included Content[/h2]
 [list]
@@ -9,11 +9,11 @@ This project provides specialized assets/functions for UKSFTA operations. Optimi
 [/list]
 
 [h2]🛠 Requirements[/h2]
-This pack is intended for use by [b]UKSFTA members[/b] and mission makers. 
+This pack is intended for use by [b]UKSFTA Zeus Operators[/b] and mission creators. 
 
 [h2]📡 About UKSFTA[/h2]
 UKSF Task Force Alpha is a tactical realism unit focused on high-quality Arma 3 simulation. 
-[url=https://uksfta.github.io/]Visit our Website[/url]
+
 
 [hr]
 [i]Automated deployment via UKSFTA DevOps Pipeline[/i]
