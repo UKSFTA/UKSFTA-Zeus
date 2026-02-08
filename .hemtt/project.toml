@@ -3,6 +3,9 @@ author = "UKSF Taskforce Alpha Team"
 prefix = "UKSFTA-Zeus"
 mainprefix = "z"
 
+keyname = "UKSFTA"
+signame = "UKSFTA"
+
 [version]
 path = "addons/main/script_version.hpp"
 
