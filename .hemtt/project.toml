@@ -1,11 +1,11 @@
 name = "UKSF Task Force Alpha - Zeus"
 author = "UKSF Taskforce Alpha Team"
-prefix = "UKSFTA-Zeus"
+prefix = "uksfta"
 mainprefix = "z"
 
 
 [version]
-path = "addons/main/script_version.hpp"
+path = "addons/zeus/script_version.hpp"
 
 [files]
 include = [
