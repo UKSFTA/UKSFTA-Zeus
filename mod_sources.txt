@@ -2,6 +2,7 @@
 # Format: URL/ID # Tag (Optional)
 # Example: 450814997 # Weekend Ops, Core
 
+https://steamcommunity.com/sharedfiles/filedetails/?id=623475643 # Editor Extention | 3den Enhanced
 
 [ignore]
 # List mods to exclude from download/sync below
