@@ -1,3 +1,4 @@
 [default]
-workshop = []
-    "623475643",
+workshop = [
+    "623475643"
+]
