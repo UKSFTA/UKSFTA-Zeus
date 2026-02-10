@@ -5,7 +5,7 @@ mainprefix = "z"
 
 
 [version]
-path = "addons/zeus/script_version.hpp"
+path = "addons/main/script_version.hpp"
 
 [files]
 include = [
