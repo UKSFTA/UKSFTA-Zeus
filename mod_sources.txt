@@ -3,6 +3,8 @@
 # Example: 450814997 # Weekend Ops, Core
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=623475643 # Editor Extention | 3den Enhanced
+https://steamcommunity.com/sharedfiles/filedetails/?id=2461386136 # Editor Extention | Zeus Immersion Sounds
+https://steamcommunity.com/workshop/filedetails/?id=1779063631 # Editor Extention | Zeus Enhanced
 
 [ignore]
 # List mods to exclude from download/sync below
