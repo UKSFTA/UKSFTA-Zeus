@@ -1,0 +1,23 @@
+[h1]UKSF Task Force Alpha - Zeus Modpack[/h1]
+
+[b]Advanced toolkit for UKSFTA Zeus operators and mission designers.[/b]
+This collection provides essential mission-making assets, Zeus modules, and functional improvements required for creating high-fidelity tactical simulations within the UKSFTA environment.
+
+[h2]🗺 Included Content[/h2]
+[list]
+ [*] 3den Enhanced (Editor Extention) (Workshop ID: 623475643)
+ [*] Zeus Immersion Sounds (Editor Extention) (Workshop ID: 2461386136)
+ [*] Zeus Enhanced (Editor Extention) (Workshop ID: 1779063631)
+
+[/list]
+
+[h2]🛠 Requirements[/h2]
+None. (All core requirements handled by unit launcher)
+This pack is intended for use by [b]UKSFTA Zeus Operators[/b] and mission creators.
+
+[h2]📡 About UKSFTA[/h2]
+UKSF Task Force Alpha is a tactical realism unit focused on high-quality Arma 3 simulation.
+
+
+[hr]
+[i]Automated deployment via UKSFTA DevOps Pipeline[/i]
