@@ -9,10 +9,11 @@ This collection provides essential mission-making assets, Zeus modules, and func
 [/list]
 
 [h2]🛠 Requirements[/h2]
-This pack is intended for use by [b]UKSFTA Zeus Operators[/b] and mission creators. 
+{{MOD_DEPENDENCIES}}
+This pack is intended for use by [b]UKSFTA Zeus Operators[/b] and mission creators.
 
 [h2]📡 About UKSFTA[/h2]
-UKSF Task Force Alpha is a tactical realism unit focused on high-quality Arma 3 simulation. 
+UKSF Task Force Alpha is a tactical realism unit focused on high-quality Arma 3 simulation.
 
 
 [hr]
