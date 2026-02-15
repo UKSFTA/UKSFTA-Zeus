@@ -1,9 +1,9 @@
 name = "UKSF Taskforce Alpha - Zeus Modpack";
 author = "UKSF Taskforce Alpha Team";
-logo = "\z\z\z\uksfta\addons\zeus\addons\zeus\addons\main\data\icon_128_ca.paa";
-logoOver = "\z\z\z\uksfta\addons\zeus\addons\zeus\addons\main\data\icon_128_highlight_ca.paa";
-logoSmall = "\z\z\z\uksfta\addons\zeus\addons\zeus\addons\main\data\icon_64_ca.paa";
+logo = "z\uksfta\addons\main\data\icon_128_ca.paa";
+logoOver = "z\uksfta\addons\main\data\icon_128_highlight_ca.paa";
+logoSmall = "z\uksfta\addons\main\data\icon_64_ca.paa";
 overview = "UKSF Taskforce Alpha - Zeus Modpack. Specialized tools and assets for unit mission makers.";
-picture = "\z\z\z\uksfta\addons\zeus\addons\zeus\addons\main\data\title_co.paa";
+picture = "z\uksfta\addons\main\data\title_co.paa";
 tooltip = "UKSFTA Zeus";
 tooltipOwned = "UKSF Taskforce Alpha";
