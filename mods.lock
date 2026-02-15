@@ -59,9 +59,256 @@
         "addons/enh_remove_object_virtualarsenal.pbo",
         "addons/enh_remove_object_waterleakiness.pbo"
       ],
-      "name": "Editor Extention | 3den Enhanced",
+      "name": "3den Enhanced",
       "dependencies": [],
-      "updated": "1770563268"
+      "updated": "1753260837"
+    },
+    "2461386136": {
+      "files": [
+        "addons/16aa_immersion_sounds.pbo"
+      ],
+      "name": "Zeus Immersion Sounds",
+      "dependencies": [],
+      "updated": "1620908434"
+    },
+    "1779063631": {
+      "files": [
+        "addons/zen_ai.pbo",
+        "addons/zen_area_markers.pbo",
+        "addons/zen_attached_objects.pbo",
+        "addons/zen_attributes.pbo",
+        "addons/zen_building_markers.pbo",
+        "addons/zen_camera.pbo",
+        "addons/zen_common.pbo",
+        "addons/zen_compat_ace.pbo",
+        "addons/zen_compat_advanced_rappelling.pbo",
+        "addons/zen_compositions.pbo",
+        "addons/zen_context_actions.pbo",
+        "addons/zen_context_menu.pbo",
+        "addons/zen_cover_map.pbo",
+        "addons/zen_custom_modules.pbo",
+        "addons/zen_damage.pbo",
+        "addons/zen_dialog.pbo",
+        "addons/zen_doors.pbo",
+        "addons/zen_editor.pbo",
+        "addons/zen_editor_previews.pbo",
+        "addons/zen_faction_filter.pbo",
+        "addons/zen_flashlight.pbo",
+        "addons/zen_garage.pbo",
+        "addons/zen_inventory.pbo",
+        "addons/zen_loadout.pbo",
+        "addons/zen_main.pbo",
+        "addons/zen_markers_tree.pbo",
+        "addons/zen_modules.pbo",
+        "addons/zen_music.pbo",
+        "addons/zen_placement.pbo",
+        "addons/zen_position_logics.pbo",
+        "addons/zen_pylons.pbo",
+        "addons/zen_remote_control.pbo",
+        "addons/zen_tasks.pbo",
+        "addons/zen_visibility.pbo",
+        "addons/zen_vision.pbo"
+      ],
+      "name": "Zeus Enhanced",
+      "dependencies": [],
+      "updated": "1724123223"
+    },
+    "3043987264": {
+      "files": [
+        "addons/meh_common.pbo",
+        "addons/meh_compat_ace.pbo",
+        "addons/meh_compat_cup.pbo",
+        "addons/meh_compat_sog.pbo",
+        "addons/meh_compat_ww2_spe.pbo",
+        "addons/meh_effects.pbo",
+        "addons/meh_error.pbo",
+        "addons/meh_main.pbo",
+        "addons/meh_modules.pbo",
+        "addons/meh_teleporter.pbo"
+      ],
+      "name": "Modules Enhanced",
+      "dependencies": [],
+      "updated": "1768941602"
+    },
+    "2387297579": {
+      "files": [
+        "addons/zeus_additions_main.pbo"
+      ],
+      "name": "Zeus Additions",
+      "dependencies": [],
+      "updated": "1758961206"
+    },
+    "3513210722": {
+      "files": [
+        "addons/DNI_ZeusFPSMonitor.pbo"
+      ],
+      "name": "[FOD] Improved Zeus Monitor",
+      "dependencies": [],
+      "updated": "1755508382"
+    },
+    "3500935186": {
+      "files": [
+        "addons/FOD_ZA.pbo"
+      ],
+      "name": "[FOD] Zeus Additions",
+      "dependencies": [
+        {
+          "id": "1779063631",
+          "name": "Zeus Enhanced"
+        }
+      ],
+      "updated": "1763560676"
+    },
+    "2447965207": {
+      "files": [
+        "addons/crowsza_ace.pbo",
+        "addons/crowsza_drawbuild.pbo",
+        "addons/crowsza_main.pbo",
+        "addons/crowsza_misc.pbo",
+        "addons/crowsza_pingbox.pbo",
+        "addons/crowsza_teleport.pbo",
+        "addons/crowsza_tfar.pbo",
+        "addons/crowsza_zeus_text.pbo"
+      ],
+      "name": "Crows Zeus Additions",
+      "dependencies": [
+        {
+          "id": "450814997",
+          "name": "Mod 450814997"
+        }
+      ],
+      "updated": "1764431086"
+    },
+    "2961167812": {
+      "files": [
+        "addons/sez_main.pbo"
+      ],
+      "name": "Snapping for Eden and Zeus",
+      "dependencies": [],
+      "updated": "1770214471"
+    },
+    "3023395342": {
+      "files": [
+        "addons/3den_attributes_fast_laod_main.pbo"
+      ],
+      "name": "3DEN Attributes Fast Load",
+      "dependencies": [],
+      "updated": "1692572838"
+    },
+    "3499977893": {
+      "files": [
+        "addons/DEV_TOOLS.pbo",
+        "addons/DEV_Tools_Data.pbo"
+      ],
+      "name": "Advanced Developer Tools",
+      "dependencies": [],
+      "updated": "1749991215"
+    },
+    "3086440068": {
+      "files": [
+        "addons/EnochFurniture.pbo"
+      ],
+      "name": "Enoch Furniture",
+      "dependencies": [],
+      "updated": "1700322276"
+    },
+    "1251859358": {
+      "files": [
+        "addons/zei.pbo"
+      ],
+      "name": "ZEI - Zeus and Eden Interiors",
+      "dependencies": [],
+      "updated": "1664623750"
+    },
+    "3087585840": {
+      "files": [],
+      "name": "[EP] Aircraft Enhancements - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1729747173"
+    },
+    "2965510125": {
+      "files": [],
+      "name": "[EP] Ambient Noises - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1729747184"
+    },
+    "2965510404": {
+      "files": [],
+      "name": "[EP] Better Mortars - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1729747195"
+    },
+    "2965510476": {
+      "files": [],
+      "name": "[EP] Boat Anchors - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1732652282"
+    },
+    "2965510580": {
+      "files": [],
+      "name": "[EP] Combat Callouts - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1732648301"
+    },
+    "2965509871": {
+      "files": [],
+      "name": "[EP] Core - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1733865410"
+    },
+    "2965510699": {
+      "files": [],
+      "name": "[EP] Drag Players - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1729747225"
+    },
+    "2965510869": {
+      "files": [],
+      "name": "[EP] Enhanced Night Vision - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1729747233"
+    },
+    "2965510963": {
+      "files": [],
+      "name": "[EP] Enhanced Radio - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1729747266"
+    },
+    "2965511143": {
+      "files": [],
+      "name": "[EP] Flash n' Frags - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1729747297"
+    },
+    "2965511051": {
+      "files": [],
+      "name": "[EP] Force First Person - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1713511490"
+    },
+    "2965511345": {
+      "files": [],
+      "name": "[EP] Increased Fuel Burn - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1733865429"
+    },
+    "2965511441": {
+      "files": [],
+      "name": "[EP] Sit on Quadbikes - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1732652994"
+    },
+    "2965511250": {
+      "files": [],
+      "name": "[EP] Slow Offroad Vehicles - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1732653045"
+    },
+    "2965511518": {
+      "files": [],
+      "name": "[EP] Suppression Effects - Enhancement Pack",
+      "dependencies": [],
+      "updated": "1713511529"
     }
   }
 }

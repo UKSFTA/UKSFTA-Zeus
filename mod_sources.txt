@@ -2,9 +2,35 @@
 # Format: URL/ID # Tag (Optional)
 # Example: 450814997 # Weekend Ops, Core
 
+https://steamcommunity.com/workshop/filedetails/?id=1779063631 # Editor Extention | Zeus Enhanced
 https://steamcommunity.com/sharedfiles/filedetails/?id=623475643 # Editor Extention | 3den Enhanced
 https://steamcommunity.com/sharedfiles/filedetails/?id=2461386136 # Editor Extention | Zeus Immersion Sounds
-https://steamcommunity.com/workshop/filedetails/?id=1779063631 # Editor Extention | Zeus Enhanced
+https://steamcommunity.com/sharedfiles/filedetails/?id=3043987264 # Editor Extention | Modules Enhanced
+https://steamcommunity.com/sharedfiles/filedetails/?id=2387297579 # Editor Extention | Zeus Additions
+https://steamcommunity.com/sharedfiles/filedetails/?id=3513210722 # Editor Extention | [FOD] Improved Zeus Monitor
+https://steamcommunity.com/sharedfiles/filedetails/?id=3500935186 # Editor Extention | [FOD] Zeus Additions
+https://steamcommunity.com/sharedfiles/filedetails/?id=2447965207 # Editor Extention | Crows Zeus Additions
+https://steamcommunity.com/sharedfiles/filedetails/?id=2961167812 # Editor Extention | Snapping for Eden and Zeus
+https://steamcommunity.com/sharedfiles/filedetails/?id=3023395342 # Editor Extention | 3DEN Attributes Fast Load
+https://steamcommunity.com/sharedfiles/filedetails/?id=3499977893 # Editor Extention | Advanced Developer Tools
+https://steamcommunity.com/sharedfiles/filedetails/?id=3086440068 # Editor Extention | Enoch Furniture
+https://steamcommunity.com/sharedfiles/filedetails/?id=1251859358 # Editor Extention | ZEI - Zeus and Eden Interiors
+https://steamcommunity.com/sharedfiles/filedetails/?id=3087585840 # Editor Extention | [EP] Aircraft Enhancements - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965510125 # Editor Extention | [EP] Ambient Noises - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965510404 # Editor Extention | [EP] Better Mortars - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965510476 # Editor Extention | [EP] Boat Anchors - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965510580 # Editor Extention | [EP] Combat Callouts - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965509871 # Editor Extention | [EP] Core - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965510699 # Editor Extention | [EP] Drag Players - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965510869 # Editor Extention | [EP] Enhanced Night Vision - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965510963 # Editor Extention | [EP] Enhanced Radio - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965511143 # Editor Extention | [EP] Flash n' Frags - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965511051 # Editor Extention | [EP] Force First Person - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965511345 # Editor Extention | [EP] Increased Fuel Burn - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965511441 # Editor Extention | [EP] Sit on Quadbikes - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965511250 # Editor Extention | [EP] Slow Offroad Vehicles - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965511518 # Editor Extention | [EP] Suppression Effects - Enhancement Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=3621672111 # Editor Extention | WBK Mission Scripts en stuff
 
 [ignore]
 # List mods to exclude from download/sync below
