@@ -1,33 +1,33 @@
-# UKSFTA Zeus Modpack
+# UKSF Taskforce Alpha - Zeus Modpack
 
-Tools, functional assets, and quality-of-life improvements for UKSFTA Zeus
-operators and mission makers.
+Essential tools, functional assets, and quality-of-life improvements for UKSFTA Zeus operators and mission makers.
 
 ## Quick Start
 
-1. Initialize Tools:
+1. **Sync Dependencies** (from a machine with the Workshop mods installed):
    ```bash
-   git submodule update --init --remote
-   python3 .uksf_tools/setup.py
+   uksft sync
    ```
 
-2. Sync Dependencies:
+2. **Build**:
    ```bash
-   python3 tools/manage_mods.py
+   hemtt build
    ```
 
-3. Build and Release:
+3. **Release**:
    ```bash
-   python3 tools/release.py
+   hemtt release
    ```
 
 ## Structure
 
 - `addons/`: Custom unit modules and mission assets.
 - `keys/`: Public signing keys.
-- `.uksf_tools/`: Automation submodule.
+- `mod_sources.txt`: Workshop mod list for the repack workflow.
 
 ## Mod Sources
 
-Mission-maker dependencies are managed in `mod_sources.txt`. This pack provides
-the necessary logic and assets for mission orchestration.
+Mission-maker dependencies are managed in `mod_sources.txt`. This pack is designed to be lightweight, providing only the necessary logic and assets for complex mission orchestration.
+
+---
+*Maintained by the UKSF Taskforce Alpha Development Team*
