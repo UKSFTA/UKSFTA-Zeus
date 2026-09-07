@@ -5,16 +5,19 @@ Essential tools, functional assets, and quality-of-life improvements for UKSFTA 
 ## Quick Start
 
 1. **Sync Dependencies** (from a machine with the Workshop mods installed):
+
    ```bash
    uksft sync
    ```
 
 2. **Build**:
+
    ```bash
    hemtt build
    ```
 
 3. **Release**:
+
    ```bash
    hemtt release
    ```
@@ -29,5 +32,6 @@ Essential tools, functional assets, and quality-of-life improvements for UKSFTA 
 
 Mission-maker dependencies are managed in `mod_sources.txt`. This pack is designed to be lightweight, providing only the necessary logic and assets for complex mission orchestration.
 
----
-*Maintained by the UKSF Taskforce Alpha Development Team*
+## Maintained by
+
+The UKSF Taskforce Alpha Development Team
